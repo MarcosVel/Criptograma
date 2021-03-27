@@ -13,19 +13,22 @@ public class QuebraOTP {
 	private static String criptograma10 = "466d06ece998b7a2fb1d464fed2ced7641ddaa3cc31c9941cf110abbf409ed39598005b3399ccfafb61d0315fca0a314be138a9f32503bedac8067f03adbf3575c3b8edc9ba7f537530541ab0f9f3cd04ff50d66f1d559ba520e89a2cb2a83";
 	private static String criptograma11 = "32510ba9babebbbefd001547a810e67149caee11d945cd7fc81a05e9f85aac650e9052ba6a8cd8257bf14d13e6f0a803b54fde9e77472dbff89d71b57bddef121336cb85ccb8f3315f4b52e301d16e9f52f904";
 	
-	private static String criptogramaA = criptograma7;
-	private static String criptogramaB = criptograma5;
+	private static String criptogramaA = criptograma6;
+	private static String criptogramaB = criptograma7;
 	private static String tentativaDeAdivinhar = 
-			"there are two types of cyptography: one that allows the Government to use brute force to break the code, ";	
+			"there are two types of cyptography: one that allows the Government to use brute force to break the code, and one that requires the Government to use brute force to break y";	
 	
-//	1: we can factor the number 15 with quantum computers. We can also factor the number 15 with a dog trained the
-//	2: euler would probably enjoy that now his theorem becomes a corner stone of crypto - Annonymous on Euler's
-//	3: the nice thing about Keeyloq is now we cryptographers can drive a lot of fancy cars - Dan
-//	4: the ciphertext produced by a weak encryption algorithm looks as good as ciphertext produced by a strong ei&0
-//	5: you don't want to buy a set of car keys from a guy who specializes in stealing cars - Marc Rotenberg
-//	6: there are two types of cryptography - that which will keep secrets safe from your little sister, and 
-//	7: there are two types of cyptography: one that allows the Government to use brute force to break the code,
-//	8: we can see the point where the chip is unhappy if a wrong bit is se
+//	1: we can factor the number 15 with quantum computers. We can also factor the number 15 with a dog trained to bark three times - Robert Harle ;   // Harley
+//	2: euler would probably enjoy that now his theorem becomes a corner stone of crypto - Annonymous on Euler's theorem ;
+//	3: the nice thing about Keeyloq is now we cryptographers can drive a lot of fancy cars - Dan Bone ;
+//	4: the ciphertext produced by a weak encryption algorithm looks as good as ciphertext produced by a strong encryption algorithm ;
+//	5: you don't want to buy a set of car keys from a guy who specializes in stealing cars - Marc Rotenberg commenting on Clippe ;
+//	6: there are two types of cryptography - that which will keep secrets safe from your little sister, and that which will keep secrets safe from your government - Bruce Schneie ;  // Schneier
+//	7: there are two types of cyptography: one that allows the Government to use brute force to break the code, and one that requires the Government to use brute force to break y ;
+//	8: we can see the point where the chip is unhappy if a wrong bit is sent and consumes more power from the environment - Adi Shami ;
+//  9: a (private-key)  encryption scheme states 3 algorithms, namely a procedure for generating keys, a procedure for encrypting, and a procedure for decrypting. ;
+//	10: The Concise OxfordDictionary (2006) deï¬?nes crypto as the art of  writing o r solving codes. ;
+//	11: the secret message is: When using a stream cipher, never use the key more than once ;
 
 	
 	public static void main(String[] args) {
